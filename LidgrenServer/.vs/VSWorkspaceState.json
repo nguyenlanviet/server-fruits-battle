@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\LidgrenServer",
+    "\\LidgrenServer\\controllers",
+    "\\LidgrenServer\\Data",
+    "\\LidgrenServer\\Migrations",
+    "\\LidgrenServer\\obj",
+    "\\LidgrenServer\\Reference",
+    "\\LidgrenServer\\repository",
+    "\\LidgrenServer\\services",
+    "\\LidgrenServer\\TurnManager"
+  ],
+  "SelectedNode": "\\LidgrenServer\\models\\ChestModel.cs",
+  "PreviewInSolutionExplorer": false
+}

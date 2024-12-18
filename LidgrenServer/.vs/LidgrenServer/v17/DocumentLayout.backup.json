@@ -1,26 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\truon\\Desktop\\server-fruits-battle\\LidgrenServer\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Server\\server-fruits-battle\\LidgrenServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{50FA9652-8F41-4AD3-9852-6567B3DE5294}|LidgrenServer\\LidgrenServer.csproj|c:\\users\\truon\\desktop\\server-fruits-battle\\lidgrenserver\\lidgrenserver\\packetprocessors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50FA9652-8F41-4AD3-9852-6567B3DE5294}|LidgrenServer\\LidgrenServer.csproj|solutionrelative:lidgrenserver\\packetprocessors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Server\\server-fruits-battle\\LidgrenServer\\LidgrenServer\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LidgrenServer\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50FA9652-8F41-4AD3-9852-6567B3DE5294}|LidgrenServer\\LidgrenServer.csproj|c:\\users\\truon\\desktop\\server-fruits-battle\\lidgrenserver\\lidgrenserver\\turnmanager\\turnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50FA9652-8F41-4AD3-9852-6567B3DE5294}|LidgrenServer\\LidgrenServer.csproj|solutionrelative:lidgrenserver\\turnmanager\\turnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Server\\server-fruits-battle\\LidgrenServer\\LidgrenServer\\models\\ChestModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LidgrenServer\\models\\ChestModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50FA9652-8F41-4AD3-9852-6567B3DE5294}|LidgrenServer\\LidgrenServer.csproj|c:\\users\\truon\\desktop\\server-fruits-battle\\lidgrenserver\\lidgrenserver\\packets\\packets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50FA9652-8F41-4AD3-9852-6567B3DE5294}|LidgrenServer\\LidgrenServer.csproj|solutionrelative:lidgrenserver\\packets\\packets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Server\\server-fruits-battle\\LidgrenServer\\LidgrenServer\\models\\UserCharacterEquipmentModel.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LidgrenServer\\models\\UserCharacterEquipmentModel.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50FA9652-8F41-4AD3-9852-6567B3DE5294}|LidgrenServer\\LidgrenServer.csproj|c:\\users\\truon\\desktop\\server-fruits-battle\\lidgrenserver\\lidgrenserver\\turnmanager\\gameroommanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50FA9652-8F41-4AD3-9852-6567B3DE5294}|LidgrenServer\\LidgrenServer.csproj|solutionrelative:lidgrenserver\\turnmanager\\gameroommanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Server\\server-fruits-battle\\LidgrenServer\\LidgrenServer\\models\\ProductModel.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LidgrenServer\\models\\ProductModel.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50FA9652-8F41-4AD3-9852-6567B3DE5294}|LidgrenServer\\LidgrenServer.csproj|c:\\users\\truon\\desktop\\server-fruits-battle\\lidgrenserver\\lidgrenserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50FA9652-8F41-4AD3-9852-6567B3DE5294}|LidgrenServer\\LidgrenServer.csproj|solutionrelative:lidgrenserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Server\\server-fruits-battle\\LidgrenServer\\LidgrenServer\\models\\ItemConsumableModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LidgrenServer\\models\\ItemConsumableModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Server\\server-fruits-battle\\LidgrenServer\\LidgrenServer\\models\\EquipmentModel.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LidgrenServer\\models\\EquipmentModel.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Server\\server-fruits-battle\\LidgrenServer\\LidgrenServer\\models\\CharacterModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LidgrenServer\\models\\CharacterModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Server\\server-fruits-battle\\LidgrenServer\\LidgrenServer\\Data\\ApplicationDataContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LidgrenServer\\Data\\ApplicationDataContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,70 +41,111 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 248,
-          "SelectedChildIndex": 3,
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\truon\\Desktop\\server-fruits-battle\\LidgrenServer\\LidgrenServer\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Server\\server-fruits-battle\\LidgrenServer\\LidgrenServer\\Program.cs",
               "RelativeDocumentMoniker": "LidgrenServer\\Program.cs",
-              "ToolTip": "C:\\Users\\truon\\Desktop\\server-fruits-battle\\LidgrenServer\\LidgrenServer\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Server\\server-fruits-battle\\LidgrenServer\\LidgrenServer\\Program.cs",
               "RelativeToolTip": "LidgrenServer\\Program.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAuwCwAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwCwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T12:35:03.1Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TurnManager.cs",
-              "DocumentMoniker": "C:\\Users\\truon\\Desktop\\server-fruits-battle\\LidgrenServer\\LidgrenServer\\TurnManager\\TurnManager.cs",
-              "RelativeDocumentMoniker": "LidgrenServer\\TurnManager\\TurnManager.cs",
-              "ToolTip": "C:\\Users\\truon\\Desktop\\server-fruits-battle\\LidgrenServer\\LidgrenServer\\TurnManager\\TurnManager.cs",
-              "RelativeToolTip": "LidgrenServer\\TurnManager\\TurnManager.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAawFoAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T12:32:52.261Z",
+              "WhenOpened": "2024-12-18T14:46:53.018Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GameRoomManager.cs",
-              "DocumentMoniker": "C:\\Users\\truon\\Desktop\\server-fruits-battle\\LidgrenServer\\LidgrenServer\\TurnManager\\GameRoomManager.cs",
-              "RelativeDocumentMoniker": "LidgrenServer\\TurnManager\\GameRoomManager.cs",
-              "ToolTip": "C:\\Users\\truon\\Desktop\\server-fruits-battle\\LidgrenServer\\LidgrenServer\\TurnManager\\GameRoomManager.cs",
-              "RelativeToolTip": "LidgrenServer\\TurnManager\\GameRoomManager.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAnwEQAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ChestModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Server\\server-fruits-battle\\LidgrenServer\\LidgrenServer\\models\\ChestModel.cs",
+              "RelativeDocumentMoniker": "LidgrenServer\\models\\ChestModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Server\\server-fruits-battle\\LidgrenServer\\LidgrenServer\\models\\ChestModel.cs",
+              "RelativeToolTip": "LidgrenServer\\models\\ChestModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T12:26:30.925Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PacketProcessors.cs",
-              "DocumentMoniker": "C:\\Users\\truon\\Desktop\\server-fruits-battle\\LidgrenServer\\LidgrenServer\\PacketProcessors.cs",
-              "RelativeDocumentMoniker": "LidgrenServer\\PacketProcessors.cs",
-              "ToolTip": "C:\\Users\\truon\\Desktop\\server-fruits-battle\\LidgrenServer\\LidgrenServer\\PacketProcessors.cs",
-              "RelativeToolTip": "LidgrenServer\\PacketProcessors.cs",
-              "ViewState": "AgIAAOYAAAAAAAAAAAAAAP0AAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T12:23:37.454Z",
+              "WhenOpened": "2024-12-18T14:45:44.38Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Packets.cs",
-              "DocumentMoniker": "C:\\Users\\truon\\Desktop\\server-fruits-battle\\LidgrenServer\\LidgrenServer\\Packets\\Packets.cs",
-              "RelativeDocumentMoniker": "LidgrenServer\\Packets\\Packets.cs",
-              "ToolTip": "C:\\Users\\truon\\Desktop\\server-fruits-battle\\LidgrenServer\\LidgrenServer\\Packets\\Packets.cs",
-              "RelativeToolTip": "LidgrenServer\\Packets\\Packets.cs",
-              "ViewState": "AgIAAMkBAAAAAAAAAAAYwNwBAAAjAAAAAAAAAA==",
+              "Title": "UserCharacterEquipmentModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Server\\server-fruits-battle\\LidgrenServer\\LidgrenServer\\models\\UserCharacterEquipmentModel.cs",
+              "RelativeDocumentMoniker": "LidgrenServer\\models\\UserCharacterEquipmentModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Server\\server-fruits-battle\\LidgrenServer\\LidgrenServer\\models\\UserCharacterEquipmentModel.cs",
+              "RelativeToolTip": "LidgrenServer\\models\\UserCharacterEquipmentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T12:19:05.119Z",
+              "WhenOpened": "2024-12-18T14:44:16.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Server\\server-fruits-battle\\LidgrenServer\\LidgrenServer\\models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "LidgrenServer\\models\\ProductModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Server\\server-fruits-battle\\LidgrenServer\\LidgrenServer\\models\\ProductModel.cs",
+              "RelativeToolTip": "LidgrenServer\\models\\ProductModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T14:43:26.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ItemConsumableModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Server\\server-fruits-battle\\LidgrenServer\\LidgrenServer\\models\\ItemConsumableModel.cs",
+              "RelativeDocumentMoniker": "LidgrenServer\\models\\ItemConsumableModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Server\\server-fruits-battle\\LidgrenServer\\LidgrenServer\\models\\ItemConsumableModel.cs",
+              "RelativeToolTip": "LidgrenServer\\models\\ItemConsumableModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T14:42:49.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EquipmentModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Server\\server-fruits-battle\\LidgrenServer\\LidgrenServer\\models\\EquipmentModel.cs",
+              "RelativeDocumentMoniker": "LidgrenServer\\models\\EquipmentModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Server\\server-fruits-battle\\LidgrenServer\\LidgrenServer\\models\\EquipmentModel.cs",
+              "RelativeToolTip": "LidgrenServer\\models\\EquipmentModel.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T14:41:50.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CharacterModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Server\\server-fruits-battle\\LidgrenServer\\LidgrenServer\\models\\CharacterModel.cs",
+              "RelativeDocumentMoniker": "LidgrenServer\\models\\CharacterModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Server\\server-fruits-battle\\LidgrenServer\\LidgrenServer\\models\\CharacterModel.cs",
+              "RelativeToolTip": "LidgrenServer\\models\\CharacterModel.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T14:37:46.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Server\\server-fruits-battle\\LidgrenServer\\LidgrenServer\\Data\\ApplicationDataContext.cs",
+              "RelativeDocumentMoniker": "LidgrenServer\\Data\\ApplicationDataContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Server\\server-fruits-battle\\LidgrenServer\\LidgrenServer\\Data\\ApplicationDataContext.cs",
+              "RelativeToolTip": "LidgrenServer\\Data\\ApplicationDataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T14:37:44.136Z",
               "EditorCaption": ""
             }
           ]
